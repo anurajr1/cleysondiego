@@ -1,16 +1,13 @@
-### Hi there 👋
+# Cleyson Diego
+[![Twitter Badge](https://img.shields.io/badge/-@cleysondiego-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cleysondiego)](https://twitter.com/cleysondiego)
+[![Linkedin Badge](https://img.shields.io/badge/-CleysonDiego-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleysondiego/)](https://www.linkedin.com/in/cleysondiego/) 
+[![Hotmail Badge](https://img.shields.io/badge/-cleyson7@hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:cleyson7@hotmail.com)](mailto:cleyson7@hotmail.com)
 
-<!--
-**cleysondiego/cleysondiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What's up my friends 👋
+I'm Cleyson Diego.
+I'm a mobile developer 📱
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :rocket:   I’m currently working at **Diebold Nixdorf**
+- :heart:   Android
+- :computer:   Java, Python, ReactJS, Node, React Native, Typescript
+- 💬   Ask me about: tech and games
