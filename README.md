@@ -8,7 +8,7 @@
 I'm Cleyson Diego.
 I'm a mobile developer 📱
 
-- :shield:   I’m currently working at **Diebold Nixdorf**
-- :heart:   Android and Node
-- :computer:   Java, Android, ReactJS, Node, React Native, Typescript
+- :shield:   I’m currently working at **OFD Topaz**
+- :heart:   Mobile
+- :computer:   Java, Android, iOS, ReactJS, Node, React Native, Typescript
 - 💬   Ask me about: tech and games
