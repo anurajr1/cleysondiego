@@ -1,14 +1,36 @@
 # Cleyson Diego
-[![Website cleyson.com](https://img.shields.io/website-up-down-green-red/http/cleyson.com)](http://cleyson.com/)
-[![Twitter Badge](https://img.shields.io/badge/-@cleysondiego-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cleysondiego)](https://twitter.com/cleysondiego)
-[![Linkedin Badge](https://img.shields.io/badge/-CleysonDiego-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleysondiego/)](https://www.linkedin.com/in/cleysondiego/) 
-[![Hotmail Badge](https://img.shields.io/badge/-cleyson7@hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:cleyson7@hotmail.com)](mailto:cleyson7@hotmail.com)
 
-## What's up my friends 👋
+## What's up my friends 👋 
 I'm Cleyson Diego.
+
 I'm a mobile developer 📱
 
-- :shield:   I’m currently working at **OFD Topaz**
-- :heart:   Mobile
-- :computer:   Java, Android, iOS, ReactJS, Node, React Native, Typescript
-- 💬   Ask me about: tech and games
+##
+
+<a href="https://github.com/cleysondiego" target="_blank">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cleysondiego&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cleysondiego&layout=compact&langs_count=8&theme=dark"/>
+</a>
+
+Java, Android, iOS, ReactJS, Node, React Native, Typescript
+<div style="display: inline_block"><br>
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="objectivec" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg">
+  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
+  <img align="center" alt="apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
+  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+</div>
+  
+##
+  
+<div>
+  <a href="mailto:cleyson7@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Hotmail-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/cleysondiego/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
