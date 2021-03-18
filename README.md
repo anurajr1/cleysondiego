@@ -12,7 +12,6 @@ I'm a mobile developer 📱
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cleysondiego&layout=compact&langs_count=8&theme=dark"/>
 </a>
 
-Java, Android, iOS, ReactJS, Node, React Native, Typescript
 <div style="display: inline_block"><br>
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="objectivec" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg">
