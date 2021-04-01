@@ -1,11 +1,6 @@
 # Cleyson Diego
 
 ## What's up my friends 👋 
-I'm Cleyson Diego.
-
-I'm a mobile developer 📱
-
-##
 
 <a href="https://github.com/cleysondiego" target="_blank">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cleysondiego&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
